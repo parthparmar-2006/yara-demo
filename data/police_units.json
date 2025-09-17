@@ -1,0 +1,34 @@
+[
+  {
+    "id": "pu1",
+    "name": "Kaziranga Police Outpost",
+    "lat": 26.571,
+    "lng": 93.165,
+    "officers": 4,
+    "vehicles": ["Patrol Car KA-01", "Motorcycle KA-02"]
+  },
+  {
+    "id": "pu2",
+    "name": "Shillong Police Station",
+    "lat": 25.569,
+    "lng": 91.883,
+    "officers": 8,
+    "vehicles": ["Patrol Car SH-01", "Patrol Car SH-02", "Emergency Van SH-03"]
+  },
+  {
+    "id": "pu3",
+    "name": "Tezpur Police Station",
+    "lat": 26.630,
+    "lng": 92.798,
+    "officers": 6,
+    "vehicles": ["Patrol Car TZ-01", "Motorcycle TZ-02"]
+  },
+  {
+    "id": "pu4",
+    "name": "Guwahati Central Police",
+    "lat": 26.144,
+    "lng": 91.736,
+    "officers": 12,
+    "vehicles": ["Patrol Car GU-01", "Patrol Car GU-02", "Emergency Van GU-03", "Motorcycle GU-04"]
+  }
+]

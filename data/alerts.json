@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a1",
+    "touristId": "t1",
+    "type": "panic",
+    "location": { "lat": 26.577, "lng": 93.170 },
+    "timestamp": "2025-10-05T14:24:00Z",
+    "status": "new",
+    "description": "Panic button pressed from trail near river in Kaziranga"
+  },
+  {
+    "id": "a2",
+    "touristId": "t3",
+    "type": "anomaly",
+    "location": { "lat": 27.086, "lng": 92.413 },
+    "timestamp": "2025-10-05T18:35:00Z",
+    "status": "new",
+    "description": "Elevated heart rate detected (95 BPM) and low battery warning"
+  },
+  {
+    "id": "a3",
+    "touristId": "t2",
+    "type": "geofence",
+    "location": { "lat": 25.300, "lng": 91.731 },
+    "timestamp": "2025-10-05T08:15:00Z",
+    "status": "in-progress",
+    "description": "Tourist entered restricted area near Cherrapunji cliffs"
+  },
+  {
+    "id": "a4",
+    "touristId": "t5",
+    "type": "communication",
+    "location": { "lat": 23.727, "lng": 92.717 },
+    "timestamp": "2025-10-05T19:50:00Z",
+    "status": "resolved",
+    "description": "Loss of IoT band signal for 30+ minutes - signal restored"
+  }
+]
