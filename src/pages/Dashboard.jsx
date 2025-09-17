@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import Sidebar from '../components/Sidebar'
+import Sidebar from '../components/SideBar'
 import MapView from '../components/MapView'
 import AlertsTable from '../components/AlertsTable'
 import TouristProfileModal from '../components/TouristProfileModal'
